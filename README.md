@@ -16,4 +16,4 @@ POST /_plugins/_ml/models/_upload
     "embedding_dimension": 1024,
     "framework_type": "sentence_transformers"
   },
-   "url": "https://github.com/com
+   "url": "https://github.com/scaleiQLLModels/scaleiq_google_patents.git
