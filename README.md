@@ -4,7 +4,9 @@ a model trained by Google on 100M+ patents. Based on anferico/bert-for-patents
 Huggingface link: https://api-inference.huggingface.co/models/anferico/bert-for-patents
 
 To upload the model into the ScaleiQ_AI_Engine copy and paste de following under 
-the dashboard dev tool: 
+the dashboard dev tool:
+
+
 POST /_plugins/_ml/models/_upload
 {
   "name": "anferico/bert-for-patents",
